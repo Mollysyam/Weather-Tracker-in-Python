@@ -1,0 +1,9 @@
+## 📦 Requirements
+
+- Python 3.x
+- `requests` library
+
+Install the required package using:
+
+```bash
+pip install requests
